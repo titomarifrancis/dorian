@@ -1,6 +1,6 @@
 # dorian
 
-A new Flutter project.
+A new Flutter project. Why dorian? It's a pun for the portal app to the more complicated information system behind the mobile app, it's the doorway, or in taglish, "door yan" :)
 
 ## Getting Started
 
